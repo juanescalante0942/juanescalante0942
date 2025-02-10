@@ -6,4 +6,4 @@ I'm Juan and i'm a 4th year IT student who is currently on my internship. I have
 - [RCVJ, Inc. Online Recruitment Website](https://rcvj-recruit.site) (4th year Capstone Project)
 
 ## Connect with me 📫
-- LinkedIn (https://ph.linkedin.com/in/juanescalante0942)
+- [LinkedIn](https://ph.linkedin.com/in/juanescalante0942)

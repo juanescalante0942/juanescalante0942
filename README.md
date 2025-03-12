@@ -4,7 +4,7 @@ I'm Juan and i'm a 4th year IT student who is currently on my internship. I have
 
 ## Tech skills 💻
 - 🌐 Web Development: HTML, CSS, JavaScript, PHP, React, Node.js, SQL
-- 📱 Mobile Development: Android Studio, React Native (Expo & CLI)
+- 📱 Mobile Development: Android Studio, React Native Expo
 
 ## Project/s 💻
 - [RCVJ, Inc. Online Recruitment Website](https://rcvj-recruit.site) (4th year Capstone Project)

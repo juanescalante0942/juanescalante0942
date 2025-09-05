@@ -65,10 +65,6 @@ I'm a **recent IT graduate** passionate about **web and mobile development**, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanescalante0942&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescalante0942&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
